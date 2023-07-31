@@ -4,7 +4,7 @@ Este é um projeto de página de destino responsiva construída com Next.js e Ta
 
 ## Demonstração
 
-Uma demonstração ao vivo deste projeto pode ser acessada em: [Link da Demonstração](https://exemplo.com)
+Uma demonstração ao vivo deste projeto pode ser acessada em: [Link da Demonstração](https://mentor01-ogzowasdz-lucas-landin.vercel.app/)
 
 ## Recursos
 
