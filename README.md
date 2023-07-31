@@ -20,12 +20,19 @@ Uma demonstração ao vivo deste projeto pode ser acessada em: [Link da Demonstr
 3. Navegue para o diretório do projeto e execute o seguinte comando para instalar as dependências:
 
 ```bash
+npm install 
+# or
+yarn install
+# or
+pnpm install
+```
+4. Execute o seguinte comando para iniciar o servvidor de desenvolvimento:
+```bash
 npm run dev
 # or
-yarn dev
+yarn run dev
 # or
-pnpm dev
+pnpm run dev 
 ```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abra seu navegador em  [http://localhost:3000](http://localhost:3000) para ver o resultado.
 
